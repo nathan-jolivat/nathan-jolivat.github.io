@@ -451,9 +451,9 @@ body{
   --bg-color: rgb(10, 10, 10);
   --text-color: #fff;
   --blog-gray-color: rgb(180, 180, 180);
-  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.6), rgb(10, 10, 10, 1)), url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ff6e280631723.5ce69f9654177.png");
+  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.6), rgb(10, 10, 10, 1)), url("https://raw.githubusercontent.com/nathan-jolivat/nathan-jolivat.github.io/master/49e35d68783203.5b696f494b713.jpg");
   --background-background: linear-gradient(0deg, rgba(10, 10, 10, 1), rgba(10, 10, 10, 0.6)),
-    url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ff6e280631723.5ce69f9654177.png") center center fixed;
+    url("https://raw.githubusercontent.com/nathan-jolivat/nathan-jolivat.github.io/master/49e35d68783203.5b696f494b713.jpg") center center fixed;
   --height: 50vh;
 }
 #display h1 {
@@ -475,6 +475,6 @@ body{
 @media (max-width: 800px) {
   :root {
     --background-image: linear-gradient(0deg, rgba(10, 10, 10, 1), rgba(10, 10, 10, 0)),
-    url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ff6e280631723.5ce69f9654177.png") !important;
+    url("https://raw.githubusercontent.com/nathan-jolivat/nathan-jolivat.github.io/master/49e35d68783203.5b696f494b713.jpg") !important;
   }
 }
